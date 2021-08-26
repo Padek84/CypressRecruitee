@@ -1,0 +1,4 @@
+Task-1: Install the Cypress
+Task-2: Cleanup the code and remove examples
+Task-3: Create the task1 from the instruction
+Task-4: Create the task2 from the instruction
