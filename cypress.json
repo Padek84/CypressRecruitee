@@ -1,5 +1,7 @@
 {
     "env":{
-        "baseUrl": "https://auth.recruitee.com/"
+        "mainPage": "https://auth.recruitee.com/",
+        "calendarSubpage": "#/dashboard/calendar",
+        "offersSubPage": "#/offers"
     }
 }
