@@ -1,0 +1,7 @@
+{
+    "env":{
+        "mainPage": "https://auth.recruitee.com/",
+        "calendarSubpage": "#/dashboard/calendar",
+        "offersSubPage": "#/offers"
+    }
+}
