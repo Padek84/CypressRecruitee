@@ -1,7 +1,10 @@
 {
     "env":{
-        "mainPage": "https://auth.recruitee.com/",
+        "loginPage": "https://auth.recruitee.com/",
+        "mainPage": "https://app.recruitee.com/",
         "calendarSubpage": "#/dashboard/calendar",
         "offersSubPage": "#/offers"
-    }
+    },
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
 }
